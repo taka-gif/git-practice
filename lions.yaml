@@ -1,0 +1,12 @@
+team tigers
+
+<<<<<<< HEAD:test/leopards.yaml
+manager: nora
+=======
+manager: mary
+>>>>>>> parent of 50cf164 (Replace Lions with leopards):test/lions.yaml
+
+members:
+-linda
+-william
+-david
